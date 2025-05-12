@@ -3,7 +3,7 @@
 
 This repository contains the implementation for our CS 6375 Machine Learning project at The University of Texas at Dallas. The project focuses on making deep learning models more robust to arithmetic errors introduced by compiler optimizations during deployment.
 
-All implementation is done in a **single script**: `project1_v2.py`.
+All implementation is done in a **single script**: `ErrorAwareModel.py`.
 
 ---
 
